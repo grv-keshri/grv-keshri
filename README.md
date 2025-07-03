@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#3f51b5;">Gaurav Keshri</span></h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grv-keshri/grv-keshri/main/gaurav.png" width="160" alt="Gaurav Keshri" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/grv-keshri/grv-keshri/main/gaurav.png" width="180" />
 </p>
 
 <p align="center">
