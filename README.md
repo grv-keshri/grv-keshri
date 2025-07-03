@@ -23,7 +23,7 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
 
 ### 💼 Professional Experience
 
-**🔹 Brennan IT – Data & Analytics Engineer** (Aug 2024 – June 2025)  
+**🔹 Brennan IT – Data & Analytics Engineer**  
 > 🚀 Improved data processing by 25–45% using Databricks & ADF  
 > 🧩 Automated pipelines with Stonebranch & GitHub CI/CD  
 > 📊 Built optimised Power BI models, reducing report load by 30%
