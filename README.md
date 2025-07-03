@@ -15,7 +15,7 @@
 
 I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-native pipelines and transforming raw data into business value. I thrive at the intersection of data, automation, and insights — with proven impact in industries from local government to enterprise tech.
 
-- 🔧 Specializing in ETL pipelines, ADF, PySpark, Power BI
+- 🔧 Specialising in ETL pipelines, ADF, PySpark, Power BI
 - 🌐 Strong cloud experience: Azure, Snowflake, Databricks
 - 🧪 Fast in solving data problems, adapting to new tech, and enabling decision-making through data
 
@@ -57,9 +57,8 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
 ---
 
 ### 📈 Key Projects
+ - **Uploading Soon**
 
-- **[Pizza Sales Dashboard](https://github.com/gauravkeshri/pizza-sales-powerbi)** – 📊 Visualizes sales trends, top pizzas, and performance insights via Power BI  
-- **[ADF + Databricks Streaming Pipeline](https://github.com/gauravkeshri/adf-databricks-streaming)** – ⚙️ Real-time ETL pipeline from API to Snowflake using ADF + PySpark 
 
 ---
         
@@ -73,8 +72,8 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
 
 ### 🎓 Education
 
-- 🎓 Master of Technology (Enterprise Systems & Business Analytics), Federation University  
-- 🎓 Bachelor of Business Management (Finance), Jain University
+- 🎓 **Master of Technology (Enterprise Systems & Business Analytics)**,Federation University  
+- 🎓 **Bachelor of Business Management (Finance)**,Jain University
 
 ---
 
