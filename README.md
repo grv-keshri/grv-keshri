@@ -26,7 +26,7 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
 **🔹 Brennan IT – Data & Analytics Engineer** (Aug 2024 – Present)  
 > 🚀 Improved data processing by 25–45% using Databricks & ADF  
 > 🧩 Automated pipelines with Stonebranch & GitHub CI/CD  
-> 📊 Built optimized Power BI models, reducing report load by 30%
+> 📊 Built optimised Power BI models, reducing report load by 30%
 
 **🔹 City of Parramatta Council – Reporting Analyst**  
 > 📈 Delivered Power BI KPIs dashboard for FOGO  
@@ -36,7 +36,7 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
 > 🧠 Reduced downtime by 20% and boosted team efficiency  
 > 📚 Created documentation, reducing support incidents by 10%
 
-**🔹 Tech Mahindra / TransGrid – BI Analyst**  
+**🔹 Tech Mahindra – BI Analyst**  
 > 💡 Delivered SQL-based analytics and Power BI dashboards  
 > 🔍 Boosted data efficiency and accuracy by 20–30%
 
