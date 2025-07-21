@@ -68,9 +68,11 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
         
 ### 📜 Certifications
 
-- 🧾 **Microsoft Power BI Data Analyst Associate (PL-300)** – May 2023  
-- ☁️ **Microsoft Azure Data Fundamentals (DP-900)** – Feb 2023  
-- 🔧 **Microsoft Fabric Data Engineer (DP-700)** – *In Progress*
+<p align="left">
+<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals badge image. Issued by Microsoft" width="80" height="80">
+<img src="https://training.cellenza.com/wp-content/uploads/2022/03/PL-300.png" alt="Formation PL-300 : Power BI Data Analyst" class=" nofocus" tabindex="0" aria-label="Formation PL-300 : Power BI Data Analyst" width="80" height="80">
+</p>
+
 
 ---
 
@@ -78,6 +80,7 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
 
 - 🎓 **Master of Technology (Enterprise Systems & Business Analytics)**, Federation University  
 - 🎓 **Bachelor of Business Management (Finance)**, Jain University
+
 
 ---
 
