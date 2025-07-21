@@ -57,7 +57,11 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
 ---
 
 ### 📈 Key Projects
- - **Uploading Soon**
+<p align="center">
+  <a href="https://github.com/grv-keshri?tab=repositories" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/See%20All%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="See All My Repositories"/>
+  </a>
+</p>
 
 
 ---
@@ -72,8 +76,8 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
 
 ### 🎓 Education
 
-- 🎓 **Master of Technology (Enterprise Systems & Business Analytics)**,Federation University  
-- 🎓 **Bachelor of Business Management (Finance)**,Jain University
+- 🎓 **Master of Technology (Enterprise Systems & Business Analytics)**, Federation University  
+- 🎓 **Bachelor of Business Management (Finance)**, Jain University
 
 ---
 
@@ -83,11 +87,5 @@ I'm a passionate Data & Analytics Engineer focused on building scalable, cloud-n
   <a href="mailto:gaurav.keshri@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gkeshri/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/grv-keshri"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grv-keshri&show_icons=true&theme=vue-dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grv-keshri&layout=compact&theme=vue-dark" height="180"/>
-</p>
